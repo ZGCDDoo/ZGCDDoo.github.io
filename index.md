@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+I'am a Ph.D student in the group of **André-Marie Tremblay**.

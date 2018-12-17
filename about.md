@@ -2,10 +2,25 @@
 layout: page
 title: About
 permalink: /about/
+order: 
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# General Information
 
+My github repository can be found here [ZGCDDoo](https://github.com/ZGCDDoo).
+The exciting projects are unfortunately private for academic and competitive reasons. Once my studies are finished, my Continuous time Quantum Monte Carlo Solvers will be made publicly available. 
+
+
+# My Snap packages can be found here.
+
+
+
+# 
+
+
+
+## Citation
+This simple website is rendered using [GitHub pages](https://pages.github.com/) as well as jekyll. </br>
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)

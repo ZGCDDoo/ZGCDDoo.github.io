@@ -2,7 +2,7 @@ title: Charles-David Hébert's personal page
 author: Charles-David Hébert
 email: hebertcharlesdavid@gmail.com
 description: |
-  Charles-David Hébert personal site.
+  Charles-David Hébert's personal site. 
   
 # social links
 # twitter_username: jekyllrb
@@ -38,8 +38,12 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - about.md
+  - software.md
+  - publications.md
+  - cv.md
+
 
 # Build settings
 theme: minima
