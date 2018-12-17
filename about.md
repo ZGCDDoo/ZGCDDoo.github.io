@@ -5,22 +5,18 @@ permalink: /about/
 order: 
 ---
 
-# General Information
+## General Information
 
+I'am a Ph.D student in the group of [**André-Marie Tremblay**](https://www.physique.usherbrooke.ca/pages/en/node/3412).
+I study Condensed matter physics, and more particularly [Quantum Monte Carlo](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.83.349)
 My github repository can be found here [ZGCDDoo](https://github.com/ZGCDDoo).
 The exciting projects are unfortunately private for academic and competitive reasons. Once my studies are finished, my Continuous time Quantum Monte Carlo Solvers will be made publicly available. 
 
 
-# My Snap packages can be found here.
 
 
-
-# 
-
-
-
-## Citation
-This simple website is rendered using [GitHub pages](https://pages.github.com/) as well as jekyll. </br>
+## About this website
+This simple website is rendered using [GitHub pages](https://pages.github.com/) as well as jekyll.
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
