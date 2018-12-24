@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+updated: 2018-12-23
 permalink: /software/
 order: 1
 ---
@@ -18,3 +19,8 @@ My python packages can be found on *Github*. They are also installable via **pip
  <!-- - [mea](https://pypi.org/project/mea/)  -->
 
  These projects were developped to be used as personal and group software, and unfortunately, the description and tutorials are not very advanced for now.
+
+ ## Snap packages
+
+snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver.
+- [ctint-science Snap](https://snapcraft.io/ctint-science)
