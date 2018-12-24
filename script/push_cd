@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cp ~/.gitconfig_2 ~/.gitconfig
+git remote add origincd https://github.com/charles-david/charles-david.github.io.git
+git push -u origincd master
+git remote remove origincd
+cp ~/.gitconfig_1 ~/.gitconfig
