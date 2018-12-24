@@ -20,7 +20,8 @@ My python packages can be found on *Github*. They are also installable via **pip
 
  These projects were developped to be used as personal and group software, and unfortunately, the description and tutorials are not very advanced for now.
 
- ## Snap packages
+
+## Snap packages
 
 snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver.
 - [ctint-science Snap](https://snapcraft.io/ctint-science)
