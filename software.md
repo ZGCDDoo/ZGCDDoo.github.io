@@ -9,7 +9,7 @@ order: 1
 ## GitHub
 
 My github repository can be found here [ZGCDDoo](https://github.com/ZGCDDoo).
-The exciting projects are unfortunately private for academic and competitive reasons. Once my studies are finished, my Continuous time Quantum Monte Carlo Solvers will be made publicly available. A simple (non-parallel, not fully optimized) Quantum Monte Carlo code written in efficient C++ is freely available on my *Github*.
+The exciting projects are unfortunately private for academic and competitive reasons. Once my studies are finished, my Continuous time Quantum Monte Carlo Solvers will be made publicly available. A simple (non-parallel, not fully optimized) Quantum Monte Carlo code written in efficient C++ is freely available on my *Github*. Please feel free to contact me if you wish to obtain the more serious Quantum Monte Carlo solvers, I will consider adding you as a collaborator to the project.
 
 ## Python packages
 My python packages can be found on *Github*. They are also installable via **pip**, the python package manager
