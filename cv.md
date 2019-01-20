@@ -63,5 +63,5 @@ order: 3
 > - A short introduction to Quantum Monte-Carlo methods: [Quantum Monte Carlo Presentation][2].
 
 
-[1]:{{ site.url }}/files/quantum-monte-carlo.pdf
-[2]:{{ site.url }}/files/intro-performance-python-julia.pptx
+[1]:{{ site.url }}/files/intro-performance-python-julia.pptx
+[2]:{{ site.url }}/files/quantum-monte-carlo.pdf
