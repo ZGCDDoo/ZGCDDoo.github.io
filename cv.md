@@ -55,3 +55,13 @@ order: 3
 
 > FRQNT PhD scholarship  
 > CRSNG MSc scholarship
+
+## Presentations
+
+> - A simple introduction to speeding-up python code with numba, cython and pypy (general audience): 
+[Introduction to Performance Python][1].
+> - A short introduction to Quantum Monte-Carlo methods: [Quantum Monte Carlo Presentation][2].
+
+
+[1]:{{ site.url }}/files/quantum-monte-carlo.pdf
+[2]:{{ site.url }}/files/intro-performance-python-julia.pptx
