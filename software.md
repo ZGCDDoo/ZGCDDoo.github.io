@@ -23,5 +23,5 @@ My python packages can be found on *Github*. They are also installable via **pip
 
 ## Snap packages
 
-snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver.
+snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver that I have coded and used for a scientific article. This version is a toned down version (no optimizations nor parallelization) of my private Continous-time Quantum Monte Carlo Solver.
 - [ctint-science Snap](https://snapcraft.io/ctint-science)
