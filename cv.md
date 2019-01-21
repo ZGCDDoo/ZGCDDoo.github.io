@@ -58,10 +58,17 @@ order: 3
 
 ## Presentations
 
-> - A simple introduction to speeding-up python code with numba, cython and pypy (general audience): 
+> - A simple introduction to speeding-up python code with numba, cython and pypy (general audiencem, humoristic but serious presentation): 
 [Introduction to Performance Python][1].
 > - A short introduction to Quantum Monte-Carlo methods: [Quantum Monte Carlo Presentation][2].
+> - My presentation of my research at the 2017 march meeting of the *American Physical Society*: [APS 2017][3].
+> - The mandatory first presentation of my Ph.D, demonstrating what I have achieved thus far, and what are the futur goals of my research: [Seminaire de Doctorat][4].
 
 
 [1]:{{ site.url }}/files/intro-performance-python-julia.pptx
 [2]:{{ site.url }}/files/quantum-monte-carlo.pdf
+[3]:{{ site.url }}/files/aps_2017.pptx
+[4]:{{ site.url }}/files/seminaire-doctorat.pptx
+
+
+

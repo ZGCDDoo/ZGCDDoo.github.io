@@ -14,8 +14,8 @@ The exciting projects are unfortunately private for academic and competitive rea
 ## Python packages
 My python packages can be found on *Github*. They are also installable via **pip**, the python package manager
 
- - [statsfiles](https://pypi.org/project/statsfiles/)
- - [isypy](https://pypi.org/project/isypy/)
+ - [statsfiles](https://pypi.org/project/statsfiles/): A small package to compute statistics of similiar data files.
+ - [isypy](https://pypi.org/project/isypy/) : A simple and educational project to demonstrate the usage of Open-MPI with python.
  <!-- - [mea](https://pypi.org/project/mea/)  -->
 
  These projects were developped to be used as personal and group software, and unfortunately, the description and tutorials are not very advanced for now.
