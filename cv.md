@@ -41,7 +41,7 @@ order: 3
 
 >**Software developer**
 > - Software developer at *Ariann*. 
->       - I work with technologies as C++, python (scientific-stack/AI), MySQL and  Linux. We work mostly             on Financial algorithms, publicity and Machine learning.
+>       - I work with technologies such as C++, python (scientific-stack/AI), MySQL and  Linux. We work mostly             on Financial algorithms, publicity and Machine learning.
 
 
 > **Scientific computing analyst**, Université de Sherbrooke QC (September 2018 - )  
