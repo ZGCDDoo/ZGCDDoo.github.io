@@ -31,17 +31,23 @@ order: 3
 > - [Superconducting dome in doped quasi-two-dimensional organic Mott insulators: A paradigm for strongly correlated superconductivity](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.195112)  
 
 ### In preperation 
-> - Pseudogap, superfluid stiffness and unconventional superconductivity in organic superconductors.
+> - Pseudogap, superfluid stiffness and unconventional superconductivity in organic superconductors. As first author.
+> - Effect on superfluid stiffness of Mott transition and of competition betweenantiferromagnetism and superconductivity in cuprate. As second author.
 
 
 ***
 
 ## Professional experiences
 
+>**Software developer**
+> - Software developer at *Ariann*. 
+>       - I work with technologies as C++, python (scientific-stack/AI), MySQL and  Linux. We work mostly             on Financial algorithms, publicity and Machine learning.
+
+
 > **Scientific computing analyst**, Université de Sherbrooke QC (September 2018 - )  
 >    - Help and consulting in scientific high performance computing  
 >        - Linux  
->        - C++ high performance (Linear algebra libraries, boost, openmpi, etc.)  
+>        - C++ high performance (Linear algebra libraries, boost, openmpi, threading, etc.)  
 >        - Python and julia scientific programming and optimizations (Cython, numba, numpy-stack, pypy, openmpi)  
 >        - Maintain the following website: [https://www.physique.usherbrooke.ca/codes_sources/](https://www.physique.usherbrooke.ca/codes_sources/).
 >
