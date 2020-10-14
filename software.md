@@ -1,10 +1,13 @@
 ---
 layout: page
 title: Software
-updated: 2018-12-23
+updated: 2020-10-13
 permalink: /software/
 order: 1
 ---
+
+## Current Stack Focus
+These days, I am primarly interested in C#, Python and C++ for console applications for data crunching and reporting. I also work with different technology stacks, such as **ASP.Net Core**, **RabbitMQ**, **Docker**, **Keras**, **Scikit-Learn** and some basic **WPF**. I have experience with distributed computing on Compute Canada Clusters using C++ and **OpenMPI** with robust Quantum Monte Carlo simulations.
 
 ## GitHub
 
@@ -23,5 +26,5 @@ My python packages can be found on *Github*. They are also installable via **pip
 
 ## Snap packages
 
-snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver that I have coded and used for a scientific article. This version is a toned down version (no optimizations nor parallelization) of my private Continous-time Quantum Monte Carlo Solver.
+snap packages are portable and self-contained linux packages. I have packaged the free continuous time Quantum Monte Carlo solver that I have coded and used for a scientific article. This version is a toned down version (no optimizations, nor parallelization) of my private Continous-time Quantum Monte Carlo Solver.
 - [ctint-science Snap](https://snapcraft.io/ctint-science)

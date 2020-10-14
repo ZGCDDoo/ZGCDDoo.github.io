@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-updated: 2019-1-6
+updated: 2020-10-13
 permalink: /cv/
 order: 3
 ---
@@ -38,6 +38,13 @@ order: 3
 ***
 
 ## Professional experiences
+
+>**Quantitative and algorithmic Software Developer**
+> - Desjardins Capital Market, Fixed Income Desk
+> - Front Office Risk management applications (C#, Python, PostgreSQL, PowerBI, Excel)
+> - Trading analytics and reporting
+> - Pricing, Risk, Offerings
+
 
 >**Software developer**
 > - Software developer at *Ariann*. 
