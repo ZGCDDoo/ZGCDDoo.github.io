@@ -7,7 +7,7 @@ order: 1
 ---
 
 ## Current Stack Focus
-These days, I am primarly interested in C#, Python and C++ for console applications for data crunching and reporting. I also work with different technology stacks, such as **ASP.Net Core**, **RabbitMQ**, **Docker**, **Keras**, **Scikit-Learn** and some basic **WPF**. I have experience with distributed computing on Compute Canada Clusters using C++ and **OpenMPI** with robust Quantum Monte Carlo simulations.
+These days, I am primarly interested in C#, Python and C++ for console applications for data crunching and reporting. I also work with different technology stacks, such as **ASP.Net Core**, **RabbitMQ**, **Docker**, **Keras**, **Scikit-Learn** and some basic **WPF**. I have experience with distributed computing on Compute Canada Clusters using C++ and **OpenMPI** with robust Quantum Monte Carlo simulations. I also work on personal projects with Blazor. For example a very simple Fixed income calculator can be found on azure websites [FixedCalculator](https://hawkishbullblazorfigcalculator.azurewebsites.net/).
 
 ## GitHub
 
